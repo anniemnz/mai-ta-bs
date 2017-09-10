@@ -1,0 +1,22 @@
+// Bootstrap overrides
+//
+// Copy variables from `_variables.scss` to this file to override default values
+// without modifying source files.
+$red:    #e23400;
+$white:  #fff;
+$black:  #1f1f1f;
+$gray:   #2d2d2d;
+
+$brand-primary: $red;
+
+$enable-rounded: false;
+
+$body-bg: $black;
+$body-color: $white;
+
+$font-family-sans-serif:'Raleway', sans-serif;
+$font-family-base: $font-family-sans-serif;
+
+$display1-size: 12vw;
+$font-size-base: 1.4rem;
+$lead-font-size: 1.65rem;
