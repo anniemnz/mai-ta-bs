@@ -15,35 +15,6 @@ body {
   margin: 0;
    }
 
-.card>img{
-  max-height: 300px;
-}
-
-.projects1>.container{
-  min-height: 100%;
-  position: relative;
-}
-
-.hero{
-  background-image: url(../images/hero2.jpg);
-  background-size: cover;
-  background-position: center;
-  padding-top: 20vh;
-  padding-bottom: 25vh;
-  max-height: 100vh;
-}
-
-.about-title{
-  background-image: url("../images/about-bg.jpg");
-  background-size: cover;
-  background-position: center;
-  /*min-height: 100vh;*/
-  height: auto;
-  position: relative;
-  object-fit: fill;
-  background-repeat: no-repeat;
-}
-
 
 article,
 aside,

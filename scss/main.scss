@@ -4,9 +4,64 @@
 
 .display-1 {
 	font-family: 'Kaushan script', script;
-	text-transform: uppercase;
+	font-size: 6rem;
+	padding-bottom: 0.8em;
+	padding-top: 1em;
+}
+
+.display-3 {
+	font-family: 'Kaushan script', script;
+	font-size: 6rem;
+	padding-bottom: 0.8em;
+	padding-top: 0.8em;
 }
 
 .hero{
 	background-image: url(../images/hero2.jpg);
+	background-position: center;
+	background-size: cover;
+	padding-top: 1vh;
+  	padding-bottom: 12.5vh;
+  	background-repeat: no-repeat;
+  	min-height: 70vh;
+}
+
+.lead{
+	font-size: 1em;
+	padding-bottom: 1em;
+}
+
+.navbar-brand {
+  display: inline-block;
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+  margin-right: 1rem;
+  font-family: 'Kaushan Script', cursive;
+  line-height: inherit;
+  white-space: nowrap; 
+  color: #e23400;
+}
+
+.navbar-brand:focus, .navbar-brand:hover {
+    text-decoration: none; 
+}
+
+.navbar-inverse .navbar-brand{
+  font-size:3rem;
+  color: #e23400;
+}
+
+.about-text{
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.about-title{
+	background-image: url("../images/about-bg.jpg");
+	background-position: center;
+	background-size: cover;
+	// padding-top: 1vh;
+  	// padding-bottom: 12.5vh;
+  	background-repeat: no-repeat;
+  	min-height: 70vh;
 }
