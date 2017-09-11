@@ -4379,3 +4379,10 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 @media print {
   .hidden-print {
     display: none !important; } }
+
+.display-1 {
+  font-family: 'Kaushan script', script;
+  text-transform: uppercase; }
+
+.hero {
+  background-image: url(../images/hero2.jpg); }
